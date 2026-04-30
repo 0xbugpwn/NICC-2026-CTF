@@ -9,4 +9,4 @@ Your mission is to investigate the Modbus registers and recover the hidden infor
 
 *Flag* : NICCTF26{MODBUS_PLC+PUMP_registers_cohrir0x0000000}
 
-Connection Info* : IP: 72.61.200.187  Port: 502  Unit ID: 1
+*Connection Info* : IP: 72.61.200.187  Port: 502  Unit ID: 1
