@@ -1,0 +1,7 @@
+services:
+  modbus-expert:
+    build: .
+    container_name: modbus_mayhem
+    ports:
+      - "502:502"
+    restart: unless-stopped
